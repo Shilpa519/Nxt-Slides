@@ -1,0 +1,17 @@
+.header-container {
+  display: flex;
+  width: 100%;
+  background-color: #dbeafe;
+  font-family: 'Roboto';
+  height: 70px;
+}
+
+.logo {
+  height: 50px;
+  margin: 15px;
+}
+
+.header-title {
+  font-size: 24px;
+  color: #0f172a;
+}
